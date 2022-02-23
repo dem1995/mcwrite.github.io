@@ -134,7 +134,6 @@
 										<div class="field">
 											<label for="message">Message</label>
 											<textarea name="entry.1839147331" id="entry.1839147331" rows="4" placeholder="Please enter a brief description of your game (to give an idea of what editing it would entail), what level of editing you would prefer (spelling + grammar by default, additional stylistic suggestions optional beyond this) and whether this would be credited or uncredited work. Feel free to include any other information you either feel is relevant or you'd like to mention as well."></textarea>
-											</div>
 										</div>
 									</div>
 									<ul class="actions">
