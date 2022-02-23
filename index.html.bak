@@ -36,7 +36,7 @@
 						<nav>
 							<ul>
 								<li><a href="#intro">Intro</a></li>
-								<li><a href="#work">Work</a></li>
+								<li><a href="#pricing">Pricing</a></li>
 								<li><a href="#about">About</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
@@ -51,8 +51,50 @@
 							<article id="intro">
 								<h2 class="major">Intro</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p>Hello! My name is D. McKnight,  By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+								<p>Do you know the difference between &ldquo;login&rdquo; and &ldquo;log in&rdquo;? <br/> What about rules concerning semicolons, colons, em dashes, en dashes, and hyphens?</p>
+								<p>These are, of course, not the important parts of your game. However, knowing what the rules are (and when to let them slide) will give your game an overall more polished impression on players.</p>
+								<p>The good news? You can outsource this task! This is where <a href="#pricing"><b>McWrite services</b></a> comes into play: for either an editing credit or a relatively low negotiated fee, you can offload the more arcane parts of polishing your game's writing, allowing you to concentrate your time and energy on making the best game you can.
+							</article>
+							
+							
+						<!-- Pricing -->
+							<article id="pricing">
+								<h2 class="major">Pricing & Details</h2>
+								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+								<h3 class="minor">Details</h3>
+								<p>So you're at least somewhat interested. What does this process look like?</p>
+								<span>Ideally, you provide me with either the script or source code of the game, also telling me:</span>
+								<ol>
+								<li>In what manner you want particularity concerning grammar/spelling (technical comma conventions are not exactly what you'd want in a narratively driven game).</li>
+								<li>Whether you want broader editing suggestions beyond just spelling/grammar (such as word choice and alternative phrasing).</li>
+								<li>What style guide and spelling system you prefer (i.e. Chicago style, Canadian English).</li>
+								</ol>
+								<p>
+								I do cover archaic or dated English spelling and grammar conventions as well (i.e. Early Modern English conjugation, the subjunctive mood, etc.). Pre-1600 you should expect diminishing returns on the accuracy of this from me, however. (This is fairly niche&mdash;Shakespeare's plays date from the 1590s, for context. Prior to this point the language rapidly becomes less standardized.)
+								</p>
+								<p>
+								I will do several pass-throughs of the script (or a few, in the event I'm actually playing the game) and return suggested edits to the development team. I will field questions/clarifications/feedback, then incorporate those to create a final set of changes/lines to the team.*<br/>
+								*For the credited form of payment, I am open to more fluid lines of communication with the development team.
+								</p>
+							
+								
+								<h3 class="minor">Pricing</h3>
+								<p>I currently offer two pricing schemes: free with attribution and paid without.</p>
+								<span>Free with attribution means the following:</span>
+								<ol>
+								<li>There is no monetary cost involved (or expectation of ownership of any part of the finished game).</li>
+								<li>In the event no changes are made, you reserve the right to reject both my services and the terms of this section. </li>
+								<li>The phrase "D. Estes McKnight (McWrite Editing)" or some equivalent appears somewhere in the credits in whatever the standard credits font is.</li>
+								<li>I reserve the right to ask that my name be removed from the credits (largely in case additional changes are made and newer versions of the title do have errors).</li>
+								<li>I am allowed to list the game on the McWrite Editing webpage as an example of prior work.</li>
+								</ol>
+								
+								<span>Paid without attribution means the following:</span>
+								<ol>
+								<li>There is a prenegatiated monetary cost involved (and no expectation of ownership of any part of the finished game, as is also the case with the free model).</li>
+								<li>I reserve the right to ask that my name be removed from the credits (largely in case additional changes are made and newer versions of the title do have errors)</li>
+								</ol>
+								<p>The negotiated cost will vary, but will likely be around $20 per hour of my time. After a $10 down payment, I will edit part of the game's script (or play part of the game) to determine how much time portions of the larger script/game will take, then return a cost estimate to allow you to decide whether to retain my services or not. In the event of hiring, I will charge the minimum between $20 times the number of hours actually taken and the cost estimate provided at the beginning.</p>
 							</article>
 
 
@@ -61,25 +103,38 @@
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+								<p>Hello! My name is D. McKnight (they/she). Welcome to the website for my editing services!
+								</p>
+								<p>
+								I am an M. Sc. Candidate (Computing Science) at the University of Alberta researching natural language processing and machine learning. Prior to this, I attended the University of Oklahoma, where I completed majors in Computer Engineering and Mathematics (as well as a minor in Computer Science). In <a href=https://en.wikipedia.org/wiki/English_articles#Ye_form>ye</a> olden times I lived in St. Louis, Missouri.
+								</p>
+								<p>
+								My hobbies include reading about languages, playing games with friends, and reading about games in a variety of senses (which for better or worse seems to happen more often than actually playing them nowadays). A niche interest of mine is video game music, including listening to it, organizing interest in it/its composers, and archiving it. Hit me up for some recommendations, if you so desire!
+								</p>		
+								<p> Feel free to peruse my <a href=https://dem1995.github.io/files/Resum%C3%A9.pdf>résumé/CV here</a> for more information on my professional background.</p>
+								
 							</article>
-
+<!-- https://docs.google.com/forms/d/e/1FAIpQLSfvdV42KLvHfxbiAlSP8NbGmLxnAb2JoAN5CDgbkd1KkbHIgg/viewform?usp=pp_url&entry.994443704=name_example&entry.1260952246=email_example&entry.1839147331=message_example -->
 						<!-- Contact -->
 							<article id="contact">
 								<h2 class="major">Contact</h2>
-								<form method="post" action="#">
+								<!--<form method="post" action="#">-->
+								<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSfvdV42KLvHfxbiAlSP8NbGmLxnAb2JoAN5CDgbkd1KkbHIgg/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
-											<input type="text" name="name" id="name" />
+											<input type="text" name="entry.994443704" id="entry.994443704" />
 										</div>
 										<div class="field half">
-											<label for="email">Email</label>
-											<input type="text" name="email" id="email" />
+											<label for="email">E-mail</label>
+											<input type="text" name="entry.1260952246" id="entry.1260952246" />
 										</div>
+
 										<div class="field">
 											<label for="message">Message</label>
-											<textarea name="message" id="message" rows="4"></textarea>
+											<textarea name="entry.1839147331" id="entry.1839147331" rows="4" placeholder="Please enter a brief description of your game (to give an idea of what editing it would entail), what level of editing you would prefer (spelling + grammar by default, additional stylistic suggestions optional beyond this) and whether this would be credited or uncredited work. Feel free to include any other information you either feel is relevant or you'd like to mention as well."></textarea>
+											</div>
 										</div>
 									</div>
 									<ul class="actions">
@@ -87,14 +142,25 @@
 										<li><input type="reset" value="Reset" /></li>
 									</ul>
 								</form>
-								<ul class="icons">
+<!--								<ul class="icons">
 									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</article>
+								</ul>-->
+								<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 
+								<script src="assets/js/jquery.min.js"></script>
+								<script type="text/javascript">var submitted=false;</script>
+								<script type="text/javascript">
+								$('#gform').on('submit', function(e) {
+								  $('#gform *').fadeOut(2000);
+								  $('#gform').prepend('Thank you for your inquiry! You should receive a response back by the start of the next work week, if not the next two days.');
+								  });
+								</script>
+
+							</article>
+							
 						<!-- Elements -->
 							<article id="elements">
 								<h2 class="major">Elements</h2>
@@ -341,7 +407,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copy; D. Estes McKnight & <a href="https://html5up.net">HTML5 UP</a>.</p>
+						<p class="copyright">&copy; D. Estes McKnight. Original template &copy; <a href="https://html5up.net">HTML5 UP</a>.</p>
 					</footer>
 
 			</div>
