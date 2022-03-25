@@ -1288,9 +1288,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
-			line-height: 5.5rem;
+			width: 10rem;
+			height: 5rem;
+			line-height: 5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
@@ -1319,6 +1319,7 @@ input, select, textarea {
 				padding: 3rem 2rem;
 				max-height: 40rem;
 				overflow: hidden;
+				
 			}
 
 				#header .content .inner > :last-child {
@@ -1438,7 +1439,7 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				width: 4.75rem;
+				width: 9.5rem;
 				height: 4.75rem;
 				line-height: 4.75rem;
 			}
